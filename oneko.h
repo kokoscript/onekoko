@@ -32,20 +32,11 @@
  *      These are the bitmaps.
  */
 
-#include "bitmaps/neko/neko.include"
-#include "bitmaps/tora/tora.include"
-#include "bitmaps/dog/dog.include"
-#include "bitmaps/bsd/bsd.include"
-#include "bitmaps/sakura/sakura.include"
-#include "bitmaps/tomoyo/tomoyo.include"
+#include "bitmaps/koko/koko.include"
 
 /* These are the bitmasks that allow the use of the shape extension. */
 
-#include "bitmasks/neko/neko.mask.include"
-#include "bitmasks/dog/dog.mask.include"
-#include "bitmasks/bsd/bsd.mask.include"
-#include "bitmasks/sakura/sakura.mask.include"
-#include "bitmasks/tomoyo/tomoyo.mask.include"
+#include "bitmasks/koko/koko.mask.include"
 
 /*
  *      定数定義
